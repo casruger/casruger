@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Cas Ruger! 👋
-### Data Scientist at Coolblue 🟦 | The Netherlands 🇳🇱
+### Data Scientist at Coolblue | The Netherlands 🇳🇱
 
 I specialize in **Forecasting**, **Prediction Modelling**, and **Reinforcement Learning**.  
 I love turning complex data into actionable insights—whether that's optimizing retail forecasts or training AI agents to beat me at board games.
