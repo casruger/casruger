@@ -69,14 +69,6 @@ I love turning complex data into actionable insights—whether that's optimizing
 
 ---
 
-## 📊 Github Stats
-
-<div align="center">
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=casruger&show_icons=true&theme=radical&hide_border=true" alt="Cas's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casruger&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/casruger" target="_blank">
